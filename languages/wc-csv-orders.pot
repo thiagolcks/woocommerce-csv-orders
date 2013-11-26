@@ -1,0 +1,37 @@
+# Copyright (C) 2013 WooCommerce CSV Orders
+# This file is distributed under the same license as the WooCommerce CSV Orders package.
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce CSV Orders 1.0.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/woocommerce-csv-orders\n"
+"POT-Creation-Date: 2013-11-26 05:16:16+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2013-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: class-woocommerce-csv-orders.php:121 class-woocommerce-csv-orders.php:122
+msgid "Export CSV Orders"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "WooCommerce CSV Orders"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://github.com/thiagolcks/woocommerce-csv-orders"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Export selected shop orders showing its products to CSV file."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Thiago Locks"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://github.com/thiagolcks"
+msgstr ""
