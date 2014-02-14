@@ -159,6 +159,9 @@ class WcCsvOrders {
 				# Client E-mail
 				$fields[] = $order->billing_email;
 
+				# Client Phone
+				$fields[] = $order->billing_phone;
+
 				$products = $order->get_items();
 				foreach( $products as $product ) {
 					$fields_product = $fields;
